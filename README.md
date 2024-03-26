@@ -1,6 +1,3 @@
-Here's an improved version of your README content with corrected grammar and a more engaging tone:
-
----
 
 # Poetic Text Generation with TensorFlow
 
